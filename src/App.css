@@ -1,0 +1,12 @@
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.App input {
+  padding: 0.8rem;
+  border-radius: 0.5rem;
+}
+.App label {
+  font-size: 0.9rem;
+  font-weight: 500;
+}

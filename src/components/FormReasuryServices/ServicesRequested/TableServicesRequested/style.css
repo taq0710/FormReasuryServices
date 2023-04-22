@@ -1,0 +1,28 @@
+table {
+  margin-bottom: 1.5rem;
+}
+table input {
+  text-align: center;
+  border: none;
+  width: 9.5rem;
+}
+table thead tr th{
+border-bottom: 0.1rem solid black;
+
+}
+
+table tbody tr td {
+  width: 10rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-bottom: 0.1rem solid black ;
+}
+table tbody tr button {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: white;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}

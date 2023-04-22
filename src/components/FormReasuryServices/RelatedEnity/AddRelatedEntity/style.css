@@ -1,0 +1,23 @@
+.addrelated-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 1.5rem;
+}
+.select-container {
+  display: flex;
+}
+.select {
+  width: 6rem;
+  height: 2.7rem;
+}
+
+.cif-number {
+  width: 6rem;
+}
+.tax-id {
+  width: 4rem;
+}
+.addrelated-container-item .company-name {
+  width: 14rem;
+}

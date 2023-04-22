@@ -1,0 +1,30 @@
+.customer-info{
+  margin-bottom: 1.5rem;
+  
+}
+.header-info {
+  display: flex;
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.header-info .header-info_item {
+  margin-right: 7rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.add-btn{
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  margin-left: 1.5rem;
+  width: 15rem;
+
+}
+.customer-info .company-name{
+  display:flex;
+  margin-left: 1.5rem;
+
+}
+.company-name div{
+  margin-right: 0.5rem;
+}

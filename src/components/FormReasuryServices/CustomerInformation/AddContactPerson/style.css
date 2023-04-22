@@ -1,0 +1,22 @@
+.addcontact-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1.5rem;
+}
+.addcontact-container .addcontact-item{
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+.addcontact-container .addcontact-item input{
+    margin-right: 1rem;
+}
+.addcontact-container .addcontact-phone{
+    display: flex;
+}
+.addcontact-container .addcontact-phone div {
+    margin-right: 0.5rem;
+}
+.addcontact-container .addcontact-email{
+    font-size: 0.9rem;
+    font-weight: 500;
+}
